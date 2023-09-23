@@ -1,0 +1,12 @@
+git config --global user.email "pranjalbasak@gmail.com"
+git config --global user.name "Pranjal Basak"
+
+mkdir myproject
+cd myproject
+git init
+touch file.txt
+git status
+git add file
+git checkout -b <my branch name>
+git branch
+git 
